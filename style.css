@@ -1,0 +1,140 @@
+body{
+  border: 2px solid #ffd24a;
+  font-family: sans-serif;
+  width: 59%;
+  margin: auto;
+  background-color: #7d92a2
+}
+
+body div{
+  background-color: white;
+}
+
+form div{
+  background-color: #eee;
+}
+
+#site_header{
+  background-color: #ff8523;
+  padding: 25px;
+}
+
+#logo img{
+  padding-bottom: 30px;
+}
+
+.main_navigation{
+  padding-bottom: 30px;
+}
+
+.main_navigation a{
+  padding: 10px 25px;
+  border: 1px solid white;
+  border-radius: 5px;
+  text-decoration: none;
+  color: white;
+}
+
+#page_content{
+  padding: 20px;
+}
+
+section{
+  border-bottom: 4px solid #dddddd;
+  padding-bottom: 35px;
+}
+
+ul li{
+  font-weight: bold;
+}
+
+section h2{
+  color: #1fabe5;
+}
+
+section h3{
+  color: #1fabe5;
+}
+
+p a{
+  color: #1fabe5;
+}
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+
+thead td{
+  background-color: #1fabe5;
+  border: 2px solid #046c97;
+  color: white;
+  padding: 10px;
+}
+
+tbody td{
+  border: 2px solid #1fabe5;
+  padding: 10px;
+}
+
+td img{
+  width: 50px;
+  height: 50px;
+}
+
+form{
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 20px;
+  font-weight: bold;
+}
+
+.name{
+  background-color: #ff8523;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 25px;
+  color: white;
+}
+
+.name input{
+  height: 30px;
+  width: 175px;
+  margin-right: 25px;
+}
+
+.city_container{
+  margin-bottom: 25px;
+}
+
+textarea{
+  margin-top: 15px;
+  border: 1px solid #1fabe5;
+  border-radius: 2px;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.submit_container input{
+  background-color: #1fabe5;
+  border: none;
+  border-radius: 5px;
+  padding: 15px;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+}
+/*
+font info:
+    family - Helvetica, Arial, sans-serif
+    line-height - 1.6
+
+
+colors:
+    light gray - ##eee
+    gray - #dddddd
+    yellow - #ffd24a
+    orange - #ff8523
+    blue - #1fabe5
+    dark blue - #046c97
+*/
